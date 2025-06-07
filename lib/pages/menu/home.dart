@@ -50,7 +50,7 @@ Widget PlayerList() {
             "https://as2.ftcdn.net/v2/jpg/00/97/00/09/1000_F_97000908_wwH2goIihwrMoeV9QF3BW6HtpsVFaNVM.jpg",
         name: "Rodrigo",
         team:
-            "https://seeklogo.com/images/A/atletico-madrid-logo-ACB5B5015B-seeklogo.com.png",
+            "https://yt3.googleusercontent.com/1qXjCY2Al_l5kumMZgO1g3LvavX7m_0cw7xBaCv0H-VAA-KWKfz2FAEoIx8-onVvnpEnbwdsag=s900-c-k-c0x00ffffff-no-rj",
         position: "P",
         dorsal: "0"),
     Player(
@@ -65,7 +65,7 @@ Widget PlayerList() {
             "https://as2.ftcdn.net/v2/jpg/00/97/00/09/1000_F_97000908_wwH2goIihwrMoeV9QF3BW6HtpsVFaNVM.jpg",
         name: "Paco",
         team:
-            "https://seeklogo.com/images/A/atletico-madrid-logo-ACB5B5015B-seeklogo.com.png",
+            "https://yt3.googleusercontent.com/1qXjCY2Al_l5kumMZgO1g3LvavX7m_0cw7xBaCv0H-VAA-KWKfz2FAEoIx8-onVvnpEnbwdsag=s900-c-k-c0x00ffffff-no-rj",
         position: "C",
         dorsal: "0"),
     Player(
